@@ -1,5 +1,3 @@
-# Master_thesis 
-
 # The Analysis of Internet and Finance Industries Recruitment Criteria Based on Data Mining: A Study of Job Postings on Zhilian Recruitment Platform and a Survey on Hiring Discrimination in China.
 
 Crawl data from the Boss Direct recruitment website https://www.zhipin.com/
