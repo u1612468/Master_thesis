@@ -13,4 +13,5 @@ In the new era, there are many recruitment websites, among which Zhilian has a l
 https://www.overleaf.com/read/vykdwytvhpct
 # Thesis Progress Link (keep updated): 
 https://docs.google.com/document/d/1nYcfhWtffh1yMhV30Wpk9Xdv-qsBjNWb0bGTDD6g_i0/edit?usp=sharing
-
+# Questionnaire/Survey about Hiring Discrimination (keep updated): 
+https://wj.qq.com/s2/11824892/993c/
