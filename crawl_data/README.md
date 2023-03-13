@@ -3,6 +3,7 @@
 Through search the keywords in searchbox, get data from all pages.
 The data for this study was collected from Zhaopin.com.https://www.zhaopin.com/
 All search keywords are based on the Internet and financial industry, provided by the website, in five top cities (with the most number of job opportunities) in China, Beijing, Shanghai, Guangzhou Shenzhen, and Hangzhou. 
+Extract 9 features, job name, job salary, company name, company city, company type, company size, required work experience, and required education background. The data was then cleaned to remove duplicate entries, 53861 data for the finance industry, and 87701 data for the internet industry left.
 
 # Search Keywords:
 Internet Industry: 
