@@ -3,4 +3,3 @@ PyMySQL==1.0.2
 requests==2.25.0
 selenium==3.141.0
 
-Download your chromedriver from http://chromedriver.storage.googleapis.com/index.html with correct version. Check it on the settings of the Chrome.
