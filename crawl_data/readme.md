@@ -1,2 +1,2 @@
 ## Data crawled from the online recruitment platform are stored in the Data.zip
-After compressing, we could find the corresponding internet data and finance data.
+We crawled online job posting data and corresponding stored in Finance_all.csv and Internet_all.csv, which can obtain by compressing the Data.zip.
