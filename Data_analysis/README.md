@@ -10,4 +10,7 @@ This file "association_rules.ipynb" analyzes the association rules among variabl
 The file "word_cloud.ipynb" outputs two word cloud graphs for each industry. The data is imported from "fin_skills_counts_top.csv" and "it_skills_counts_top.csv" and those two files are generated in "skills.ipynb". The generated word cloud displays the most frequent skills (top 50) required in two sectors.
 
 # Co-occurrence Table
-The file "skills.ipynb" outputs two co-occurrence tables. The data is imported from Finance_cleaned_file.csv and Internet_cleaned_file.csv, which is compressed in Cleaned_file.zip. By constructing a co-occurrence matrix, we visualized the connections between these skills in two sectors. The weight assigned to each edge in the co-occurrence table represents the frequency of two skills appearing together in job postings, indicating a strong association.
+The file "skills.ipynb" outputs two co-occurrence tables. The data is imported from Finance_cleaned_file.csv and Internet_cleaned_file.csv, which is compressed in Cleaned_file.zip. We visualized the connections between these skills in two sectors by constructing a co-occurrence matrix. The weight assigned to each edge in the co-occurrence table represents the frequency of two skills appearing together in job postings, indicating a strong association.
+
+# Questionnaire 
+The file "Questionnaire_analyze.ipynb" analyzes the questionnaire data. The data is imported from Questionnarie_Clean_Manually.csv. To complement the perspective of job seekers, we employed an online questionnaire to investigate recruitment discrimination in the actual hiring process.
