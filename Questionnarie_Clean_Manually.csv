@@ -1,0 +1,728 @@
+gender,co_city,Industry,ifdisc,DiscTypesMeet,resType,disc_think,DiscThinkTypes,4.Please select the specific category in which your job falls within the finance industry (请选择您的工作在金融行业中的具体类别),5.Please select the specific category in which your job falls within the Internet industry (请选择您的工作在互联网行业中的具体类别),Finance_type,Internet_type
+female,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shanghai,Finance,No,,No action,Yes,"Age, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shanghai,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Finance,Yes,Age ,No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,No,,No action,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Internet,Yes,"Age, Education, Health",Other,No,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Guangzhou,Finance,Yes,"Age, Education",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,Yes,"Age, Health",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Internet,No,,No action,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Age",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Guangzhou,Internet,Yes,"Age, Education",Ask for help,Unsure,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Finance,Yes,Gender,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Internet,Yes,Gender,Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Finance,No,,No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Guangzhou,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,"Gender, Age",No action,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Guangzhou,Internet,Yes,Age ,No action,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Internet,No,,Other,No,,,B.设计类（UI设计师、美工等）,,B
+female,Shanghai,Internet,Yes,"Gender, Education, Health",Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Beijing,Finance,No,,Other,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shenzhen,Internet,Yes,"Gender, Health",Other,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Gender, Age, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Finance,Yes,Gender,No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Internet,No,,Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Internet,Yes,"Gender, Age",No action,Yes,"Gender, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Finance,No,,Ask for help,Yes,"Gender, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,Yes,"Age, Education",No action,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Guangzhou,Finance,No,,Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Internet,Yes,"Gender, Age",No action,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Finance,Yes,Gender,Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Finance,No,,Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Finance,Yes,"Gender, Age, Health",No action,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,Yes,"Age, Health",Other,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Internet,No,,Ask for help,No,,,B.设计类（UI设计师、美工等）,,B
+female,Shanghai,Finance,No,,No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Finance,Yes,"Gender, Age",No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Finance,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shenzhen,Internet,Yes,Age ,No action,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Internet,No,,Other,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Beijing,Finance,Yes,"Gender, Age",No action,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shanghai,Internet,No,,Ask for help,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Internet,No,,Ask for help,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shanghai,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Age, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,Yes,"Gender, Age, Health",No action,Yes,"Gender, Age",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Hangzhou,Finance,Yes,Gender,Other,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Internet,Yes,"Age, Health",Ask for help,Yes,"Gender, Age",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Guangzhou,Finance,No,,No action,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,No,,No action,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Internet,Yes,"Gender, Health",Ask for help,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Beijing,Finance,No,,Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Age",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Internet,No,,Other,Yes,"Gender, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,Yes,"Gender, Education",Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,Yes,"Gender, Age",Ask for help,Unsure,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Guangzhou,Internet,No,,No action,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Finance,Yes,"Gender, Age",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Age, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,No,,No action,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+male,Guangzhou,Finance,No,,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Finance,No,,Other,Yes,"Gender, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,No,,Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shanghai,Internet,Yes,Age ,No action,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+female,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Internet,Yes,"Age, Health",No action,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shanghai,Internet,Yes,Gender,No action,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Hangzhou,Finance,No,,No action,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Guangzhou,Finance,Yes,Age ,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Finance,No,,Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shanghai,Internet,Yes,"Gender, Education",No action,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Guangzhou,Internet,Yes,"Age, Education",No action,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shenzhen,Finance,Yes,Gender,Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Internet,Yes,"Age, Health",Ask for help,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Internet,Yes,"Gender, Age",No action,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Finance,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,Yes,"Gender, Age, Education",Ask for help,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shanghai,Finance,Yes,"Gender, Age, Education",No action,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Finance,Yes,Age ,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Guangzhou,Finance,No,,No action,Yes,"Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Finance,No,,No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,Yes,Age ,Other,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Hangzhou,Internet,No,,No action,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Finance,Yes,"Age, Health",No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Beijing,Internet,Yes,"Gender, Education, Health",Ask for help,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Finance,No,,Ask for help,Yes,"Gender, Age",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Internet,No,,Other,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Finance,Yes,Gender,Other,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Internet,Yes,"Age, Health",No action,Yes,"Gender, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Internet,Yes,"Age, Education",No action,Yes,"Gender, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Internet,Yes,"Gender, Age",Other,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shenzhen,Internet,Yes,"Gender, Education, Health",No action,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Guangzhou,Finance,Yes,"Age, Education",No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,"Age, Health",No action,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Finance,No,,No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,No,,Other,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Internet,No,,No action,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Finance,No,,No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Finance,Yes,Age ,Ask for help,Yes,"Gender, Age",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Internet,Yes,"Age, Education",No action,Yes,"Gender, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Finance,Yes,Gender,No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,Yes,"Gender, Health",No action,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+male,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shanghai,Finance,No,,Other,Yes,"Gender, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Internet,Yes,"Gender, Health",No action,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,No action,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shanghai,Finance,Yes,"Age, Education",No action,Yes,"Gender, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,Yes,Age ,No action,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Guangzhou,Finance,Yes,"Gender, Health",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Internet,Yes,Gender,Other,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Shenzhen,Finance,Yes,"Gender, Health",No action,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,No,,Other,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Finance,No,,Other,Yes,"Age, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shanghai,Finance,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Internet,Yes,"Gender, Age, Health",No action,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shanghai,Internet,Yes,"Gender, Education, Health",No action,Yes,"Gender, Education, Health",,B.设计类（UI设计师、美工等）,,B
+female,Guangzhou,Finance,No,,Other,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Finance,Yes,Gender,No action,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Finance,No,,No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,Yes,"Age, Health",Ask for help,No,,,B.设计类（UI设计师、美工等）,,B
+male,Shenzhen,Internet,Yes,"Age, Education",No action,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Beijing,Internet,Yes,"Gender, Health",Other,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Beijing,Internet,Yes,"Age, Education",Ask for help,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Internet,Yes,"Age, Health",No action,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Finance,Yes,Age ,No action,Yes,"Gender, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,B.设计类（UI设计师、美工等）,,B
+female,Guangzhou,Finance,Yes,"Gender, Health",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Internet,No,,Ask for help,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+female,Shanghai,Finance,No,,No action,Yes,"Gender, Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,No,,Ask for help,Yes,"Gender, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Internet,No,,No action,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Internet,Yes,Gender,Other,No,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,No,,Other,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Internet,No,,Other,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shanghai,Finance,Yes,"Age, Health",No action,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,No,,Ask for help,Yes,"Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,"Age, Education, Health",No action,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Guangzhou,Internet,Yes,Age ,No action,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Finance,No,,Other,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Internet,Yes,"Gender, Age, Health",No action,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,No,,No action,Yes,Education,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,B.设计类（UI设计师、美工等）,,B
+female,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Gender, Age",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Finance,Yes,Age ,Ask for help,Yes,"Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Finance,No,,Ask for help,Yes,"Age, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Finance,Yes,Age ,Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,No,,Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Finance,No,,No action,Yes,"Gender, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,"Age, Education",Other,Unsure,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shanghai,Internet,Yes,Gender,Ask for help,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+female,Beijing,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Internet,No,,Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Finance,No,,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Internet,No,,Ask for help,Yes,"Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Beijing,Finance,No,,Other,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,Yes,"Gender, Education, Health",Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,Gender,No action,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Internet,Yes,Age ,No action,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+male,Shanghai,Finance,No,,Other,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shanghai,Internet,No,,No action,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shenzhen,Internet,Yes,"Gender, Health",Other,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Finance,No,,Ask for help,Yes,"Gender, Age",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shanghai,Finance,Yes,"Gender, Education",No action,Yes,"Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,Age ,No action,Yes,"Gender, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Beijing,Finance,Yes,"Gender, Age, Health",Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Finance,No,,No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Internet,No,,Other,No,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Internet,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+female,Guangzhou,Finance,Yes,Gender,No action,Yes,"Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Finance,Yes,"Gender, Age",No action,Yes,"Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shanghai,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,B.设计类（UI设计师、美工等）,,B
+male,Shanghai,Finance,No,,Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,No,,Other,Yes,"Gender, Age,  Education, Health",,G.其他____________,,G
+male,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Finance,Yes,"Age, Education, Health",No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,Yes,Age ,Ask for help,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Internet,No,,Ask for help,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,Ask for help,Yes,Age,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shanghai,Finance,No,,No action,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Finance,No,,Ask for help,Yes,"Gender, Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Finance,Yes,"Gender, Age",Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Finance,No,,No action,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,No,,No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Internet,No,,Ask for help,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Internet,No,,Ask for help,Yes,Education,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Internet,Yes,"Age, Health",Ask for help,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,Yes,"Gender, Education",Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Finance,No,,Other,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,Yes,"Age, Education",Ask for help,Yes,"Age, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shenzhen,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Age",,B.设计类（UI设计师、美工等）,,B
+male,Beijing,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,No,,Other,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Finance,Yes,"Gender, Age",Other,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Finance,Yes,"Age, Education, Health",Ask for help,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Finance,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,B.设计类（UI设计师、美工等）,,B
+female,Shenzhen,Internet,Yes,Age ,Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Finance,Yes,"Age, Education, Health",Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Finance,Yes,"Gender, Age, Education",Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Finance,Yes,"Gender, Age",Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Finance,Yes,Education,Ask for help,Yes,"Gender, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Finance,Yes,Education,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Internet,Yes,"Gender, Education",No action,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shanghai,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Beijing,Internet,Yes,"Age, Education",Ask for help,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Guangzhou,Finance,Yes,Age ,Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Finance,Yes,Education,Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Finance,Yes,"Age, Education",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Finance,Yes,"Gender, Education, Health",Ask for help,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Finance,Yes,Age ,Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,B.设计类（UI设计师、美工等）,,B
+female,Beijing,Finance,Yes,"Gender, Age, Education",Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Internet,Yes,Age ,No action,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+female,Shenzhen,Finance,Yes,Education,Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Finance,Yes,Education,Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Finance,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,Yes,"Gender, Education, Health",Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,No,,No action,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+male,Beijing,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shenzhen,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Guangzhou,Finance,Yes,"Age, Education",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Beijing,Finance,No,,No action,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Internet,Yes,"Gender, Age, Education",No action,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Beijing,Finance,Yes,"Gender, Education, Health",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shanghai,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Beijing,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Finance,Yes,Education,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Internet,Yes,"Gender, Education, Health",Ask for help,Yes,"Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Shenzhen,Finance,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Finance,Yes,"Education, Health",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Guangzhou,Internet,No,,Ask for help,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Internet,Yes,"Age, Education, Health",Ask for help,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Finance,Yes,"Gender, Age, Education",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Guangzhou,Finance,Yes,"Age, Education",Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Beijing,Internet,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Internet,Yes,"Gender, Age, Education",Ask for help,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,Yes,"Education, Health",Ask for help,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shanghai,Internet,Yes,"Gender, Education, Health",Ask for help,No,,,B.设计类（UI设计师、美工等）,,B
+male,Beijing,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+female,Shenzhen,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+female,Guangzhou,Internet,No,,No action,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Finance,Yes,Education,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Hangzhou,Finance,Yes,"Age, Education",Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Guangzhou,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Internet,Yes,Education,Ask for help,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Finance,Yes,Education,Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Internet,Yes,Education,Ask for help,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Internet,Yes,"Gender, Age",No action,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Shanghai,Finance,Yes,"Age, Education",No action,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Internet,Yes,"Age, Education",Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Finance,Yes,"Gender, Age",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,Yes,"Gender, Age, Education",Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Finance,Yes,Education,Ask for help,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Finance,Yes,Education,Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Finance,Yes,"Age, Health",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,Education,Ask for help,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Guangzhou,Finance,Yes,"Gender, Education",No action,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,No,,Other,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Beijing,Finance,No,,No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Finance,Yes,Education,Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Internet,No,,No action,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Guangzhou,Internet,Yes,Age ,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Finance,Yes,Age ,Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Guangzhou,Finance,Yes,"Age, Health",Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Internet,No,,Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shanghai,Finance,Yes,Age ,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Guangzhou,Finance,Yes,"Gender, Education",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Guangzhou,Internet,Yes,"Gender, Age, Health",Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,No,,No action,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Finance,Yes,"Education, Health",Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Internet,Yes,"Gender, Age",Ask for help,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Finance,Yes,"Gender, Education, Health",Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Finance,No,,No action,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Finance,No,,Other,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,No,,No action,No,,,B.设计类（UI设计师、美工等）,,B
+female,Guangzhou,Finance,Yes,"Gender, Education",No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Guangzhou,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Beijing,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,Yes,Age ,Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Beijing,Finance,Yes,"Age, Education",Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Beijing,Internet,Yes,"Age, Education",Ask for help,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Beijing,Finance,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Internet,No,,No action,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Shenzhen,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Shenzhen,Finance,Yes,Education,No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,"Gender, Age, Education",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Internet,No,,Ask for help,Yes,"Gender, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Age, Education",,B.设计类（UI设计师、美工等）,,B
+female,Shenzhen,Finance,Yes,"Age, Education, Health",Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Finance,Yes,"Age, Education",Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shenzhen,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,Yes,"Gender, Age, Education",No action,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,No,,No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Internet,Yes,"Age, Health",Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Guangzhou,Internet,Yes,Education,Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Guangzhou,Finance,Yes,Education,Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Finance,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Hangzhou,Finance,Yes,Education,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,Education,Ask for help,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Internet,Yes,"Age, Education, Health",Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,Education,No action,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Beijing,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,"Gender, Education, Health",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Finance,Yes,"Gender, Education, Health",Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shenzhen,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Finance,No,,No action,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shenzhen,Internet,Yes,"Age, Education",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Internet,Yes,"Education, Health",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Internet,Yes,Education,Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,Yes,Age ,Ask for help,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,Yes,"Gender, Age, Education",Ask for help,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shanghai,Internet,No,,Other,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Finance,Yes,Education,No action,Unsure,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shanghai,Finance,No,,Ask for help,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Finance,Yes,"Education, Health",Ask for help,Yes,"Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Internet,Yes,"Gender, Education",Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Hangzhou,Internet,Yes,"Gender, Age",Ask for help,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Beijing,Internet,Yes,"Education, Health",Ask for help,No,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Beijing,Internet,Yes,"Age, Education",No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shenzhen,Finance,Yes,Education,Ask for help,Yes,"Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Internet,Yes,Age ,Ask for help,No,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Internet,No,,No action,Yes,"Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Beijing,Finance,Yes,"Gender, Age, Education",Ask for help,Yes,"Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,Yes,"Age, Education, Health",Ask for help,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Guangzhou,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shenzhen,Finance,No,,No action,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Finance,Yes,"Age, Education",Ask for help,Yes,"Gender, Education, Health",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Beijing,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Beijing,Internet,Yes,"Age, Health",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,Education,No action,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Internet,No,,Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shenzhen,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Guangzhou,Internet,Yes,"Gender, Age, Education",Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,Yes,"Age, Education, Health",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Guangzhou,Internet,Yes,Education,Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Internet,Yes,Education,No action,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shenzhen,Finance,Yes,Education,Ask for help,Yes,"Gender, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shenzhen,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Education",,B.设计类（UI设计师、美工等）,,B
+male,Shenzhen,Internet,Yes,"Gender, Education",Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Guangzhou,Finance,Yes,Education,Ask for help,No,,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Guangzhou,Finance,Yes,"Age, Education",Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Shanghai,Internet,Yes,"Gender, Education",Ask for help,Yes,"Gender, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Beijing,Finance,Yes,"Gender, Age, Health",Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Shanghai,Finance,No,,No action,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Beijing,Internet,Yes,"Age, Health",Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Shanghai,Finance,Yes,"Gender, Education",Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Finance,No,,No action,Yes,"Gender, Education",C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+male,Beijing,Internet,Yes,Education,Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shenzhen,Finance,Yes,"Age, Education, Health",Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Internet,Yes,Age ,Ask for help,Yes,"Gender, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Shanghai,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shenzhen,Finance,Yes,Age ,Ask for help,Yes,"Gender, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,Gender,Ask for help,Yes,"Gender, Age",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Other,Yes,"Gender, Age, Education, Health",D.其他____________,,D,
+female,Hangzhou,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Finance,Yes,"Age, Education",Ask for help,Yes,Education,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Finance,No,,Other,Yes,"Gender, Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,No action,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,"Gender, Age",No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,"Gender, Age, Education, Health",No action,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,Yes,"Gender, Age, Education",Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,No,,No action,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Finance,Yes,"Age, Education",Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Finance,No,,Ask for help,Yes,"Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Beijing,Finance,No,,No action,Yes,Gender,C.保险类（财产保险、保险内勤、理赔、精算师、保险销售、理财顾问、查勘定损、车险等）,,C,
+female,Shanghai,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Age,  Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Internet,No,,Ask for help,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,Other,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Finance,No,,No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Finance,Yes,Gender,No action,Yes,"Gender, Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Finance,No,,Ask for help,Yes,Gender,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shenzhen,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Guangzhou,Finance,Yes,"Gender, Education",Other,Yes,"Gender, Age, Education, Other",D.其他____________,,D,
+female,Beijing,Internet,Yes,"Gender, Education",Other,Yes,Education,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shanghai,Finance,Yes,"Gender, Education",Ask for help,Yes,"Gender, Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Other,Internet,No,,Ask for help,Yes,"Gender, Age",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Beijing,Internet,Yes,Gender,No action,Yes,"Gender, Age",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Other,Finance,No,,Other,Yes,Gender,D.其他____________,,D,
+female,Other,Finance,No,,No action,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Finance,Yes,Gender,No action,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Other,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Internet,No,,No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Other,Finance,Yes,"Gender, Age, Education, Health",No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Guangzhou,Finance,No,,Other,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Ask for help,Yes,"Gender, Age,  Education, Health",D.其他____________,,D,
+female,Other,Finance,No,,Other,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Ask for help,Yes,Health,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,No action,Yes,"Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Other,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Other,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Other,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",D.其他____________,,D,
+male,Other,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+male,Beijing,Finance,No,,No action,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Other,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Ask for help,No,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+male,Other,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,Other,Yes,"Gender, Age, Education, Health",D.其他____________,,D,
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Other,Finance,No,,Ask for help,Unsure,,D.其他____________,,D,
+male,Other,Finance,No,,Ask for help,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Internet,No,,Ask for help,Unsure,,,G.其他____________,,G
+female,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+female,Other,Finance,No,,Ask for help,Yes,"Age, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,No action,Yes,"Gender, Age, Education",D.其他____________,,D,
+female,Other,Finance,No,,Ask for help,No,,D.其他____________,,D,
+male,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+male,Other,Finance,No,,Ask for help,No,,D.其他____________,,D,
+male,Other,Finance,Yes,Education,No action,Yes,"Gender, Age, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+male,Other,Internet,Yes,Education,Other,No,,,G.其他____________,,G
+female,Other,Finance,No,,Other,Unsure,,D.其他____________,,D,
+male,Other,Finance,No,,Other,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Internet,No,,Other,Yes,Gender,,G.其他____________,,G
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age, Education",D.其他____________,,D,
+female,Hangzhou,Internet,No,,Other,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,Yes,Other,Other,Yes,"Gender, Age, Other",D.其他____________,,D,
+female,Hangzhou,Finance,No,,No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Internet,No,,Ask for help,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Hangzhou,Internet,No,,No action,Unsure,,,G.其他____________,,G
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,G.其他____________,,G
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Finance,Yes,"Gender, Age, Education, Health",Ask for help,No,,D.其他____________,,D,
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,G.其他____________,,G
+male,Hangzhou,Internet,No,,Ask for help,No,,,G.其他____________,,G
+male,Hangzhou,Internet,No,,Ask for help,Yes,Age,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,G.其他____________,,G
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,Age ,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,Education,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age,  Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,Gender,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,G.其他____________,,G
+male,Hangzhou,Internet,No,,No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,Other,Other,No,Other,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,Education,No action,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,Gender,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,"Gender, Age,  Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Unsure,,,G.其他____________,,G
+male,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age,  Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,Gender,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age,  Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Yes,"Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Other,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Yes,"Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,G.其他____________,,G
+female,Hangzhou,Internet,No,,Other,Unsure,,,G.其他____________,,G
+male,Hangzhou,Internet,No,,No action,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shanghai,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,No,,Other,Yes,"Education, Health",D.其他____________,,D,
+male,Hangzhou,Internet,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,No,,No action,Yes,Education,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Internet,Yes,"Gender, Age",Ask for help,Yes,"Gender, Age, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+female,Shenzhen,Finance,No,,Ask for help,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Internet,Yes,Gender,No action,Yes,"Gender, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shenzhen,Internet,Yes,Education,No action,Yes,"Gender, Age, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Shenzhen,Finance,No,,No action,Unsure,,B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Shanghai,Finance,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,No,,No action,Unsure,,,B.设计类（UI设计师、美工等）,,B
+male,Beijing,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Beijing,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Beijing,Internet,No,,Ask for help,Yes,"Gender, Age, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Beijing,Internet,No,,No action,Yes,"Gender, Age, Health",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Other,Internet,No,,Ask for help,Yes,"Gender, Age, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Finance,No,,Ask for help,Unsure,,D.其他____________,,D,
+male,Guangzhou,Internet,No,,Ask for help,Unsure,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Guangzhou,Internet,No,,Ask for help,Yes,"Gender, Education",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shenzhen,Internet,No,,Ask for help,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,No action,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Hangzhou,Internet,Yes,Education,Ask for help,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Beijing,Finance,No,,No action,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Beijing,Internet,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Finance,Yes,"Age, Education, Health",No action,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Internet,Yes,Education,No action,Yes,Education,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,Age ,Ask for help,Yes,"Gender, Age, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+male,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,No action,Unsure,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,No,,Ask for help,Yes,"Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,No,,No action,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,Yes,Age ,No action,No,,,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Hangzhou,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Shanghai,Finance,No,,No action,Unsure,,D.其他____________,,D,
+male,Hangzhou,Finance,Yes,Age ,No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Other,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age, Education, Health",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+male,Other,Internet,No,,Ask for help,Yes,"Gender, Education",,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Health",,G.其他____________,,G
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Internet,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Age,  Education, Health, Other",,G.其他____________,,G
+female,Hangzhou,Internet,Yes,"Gender, Age",No action,Yes,"Gender, Age",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,"Age, Education",Ask for help,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,Age ,No action,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age,  Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,"Age, Education",No action,Yes,"Gender, Age, Education, Health",,B.设计类（UI设计师、美工等）,,B
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age,  Education, Health",,G.其他____________,,G
+female,Hangzhou,Finance,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,No,,Other,Unsure,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age, Education",,C.数据类（数据开发、数据分析师、数据架构、深度学习、人工智能、区块链等）,,C
+female,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Age",,G.其他____________,,G
+female,Hangzhou,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Age, Education",,G.其他____________,,G
+male,Hangzhou,Internet,Yes,"Gender, Age, Education, Health",Ask for help,Yes,"Gender, Age,  Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Finance,Yes,Education,Ask for help,Yes,Education,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Finance,No,,No action,Yes,"Gender, Age, Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+male,Hangzhou,Internet,No,,No action,No,,,G.其他____________,,G
+female,Hangzhou,Finance,No,,Ask for help,Unsure,,D.其他____________,,D,
+female,Hangzhou,Internet,No,,Other,No,,,G.其他____________,,G
+male,Hangzhou,Finance,No,,Ask for help,No,,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,No,,No action,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Finance,No,,No action,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Age, Education",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Hangzhou,Finance,Yes,Age ,No action,Yes,Age,A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Hangzhou,Internet,No,,Ask for help,Unsure,,,G.其他____________,,G
+female,Hangzhou,Finance,No,,Other,Yes,Education,D.其他____________,,D,
+female,Hangzhou,Internet,Yes,"Gender, Education",Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,No,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,Yes,Education,Other,Yes,"Age, Education, Health, Other",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,G.其他____________,,G
+female,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Yes,Education,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,No action,Yes,"Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+male,Hangzhou,Internet,No,,Ask for help,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,No,,No action,Unsure,,,E.产品类（产品经理、产品助理、产品运营等）,,E
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Health",,G.其他____________,,G
+male,Hangzhou,Internet,Yes,Gender,No action,No,,,D.工程类（电气工程师、电子工程师、PLC测试工程师、设备工程师、硬件工程师、结构工程师、工艺工程师等）,,D
+male,Hangzhou,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Hangzhou,Internet,No,,Ask for help,Yes,Age,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,Yes,"Gender, Age, Education",Other,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Finance,No,,Ask for help,Yes,"Gender, Education",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Other,Finance,No,,No action,Yes,"Gender, Age,  Education, Health",B.银行类（银行柜员、银行销售、信审、信用卡、贷款、汽车金融等）,,B,
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,Other,Unsure,,,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,No,,,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Other,Finance,No,,No action,Yes,"Gender, Age",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Finance,No,,Ask for help,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Other,Finance,No,,No action,Yes,"Gender, Age, Education, Health",D.其他____________,,D,
+female,Other,Finance,No,,No action,Yes,"Gender, Age, Education",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Other,Finance,Yes,Gender,No action,Yes,"Gender, Age, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Internet,Yes,"Gender, Education",No action,Yes,"Gender, Age, Education, Health",,G.其他____________,,G
+male,Other,Internet,Yes,Other,Ask for help,Yes,Other,,G.其他____________,,G
+female,Other,Internet,No,,No action,Yes,"Gender, Age",,A.开发类（Java开发、PHP、Python、Android、Hadoop、Node.js等）,,A
+female,Shanghai,Finance,Yes,"Gender, Education",No action,Yes,"Gender, Age, Education, Health",A.投资类（投资经理、风控、催收、证券、交易员、期货、操盘手、基金、股票、投资顾问、信托、典当、担保、权证等）,,A,
+female,Shanghai,Internet,No,,Ask for help,Yes,Gender,,G.其他____________,,G
+female,Shanghai,Internet,No,,Ask for help,Yes,"Gender, Age, Education, Health",,E.产品类（产品经理、产品助理、产品运营等）,,E
+female,Shenzhen,Internet,Yes,"Gender, Age, Education",No action,Yes,"Gender, Age, Education, Health",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
+female,Hangzhou,Internet,No,,No action,Yes,"Gender, Age, Education",,F.运营类（新媒体运营、运营专员、淘宝运营、天猫运营、淘宝客服、游戏运营等）,,F
